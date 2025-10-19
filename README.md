@@ -111,6 +111,8 @@ Maka sistem akan menampilkan hasil seperti:
 * **scikit-learn**
 * **pandas**
 * **joblib**
+* **matplotlib**
+* **seaborn**
 
 ---
 
