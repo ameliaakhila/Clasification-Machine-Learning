@@ -45,11 +45,11 @@ Dataset yang digunakan bernama **apel_balance_500.csv**, berisi data karakterist
 ```
 
 📂 klasifikasi-apel
-├── app_streamlit.py           # Aplikasi utama Streamlit
-├── model_klasifikasi_apel.joblib  # Model Logistic Regression tersimpan
-├── apel_balance_500.csv       # Dataset utama
-├── train_model.py             # Script untuk pelatihan model
-└── README.md                  # Dokumentasi proyek
+├── app_streamlit.py                 # Aplikasi utama Streamlit
+├── model_klasifikasi_apel.joblib    # Model Logistic Regression tersimpan
+├── apel_balance_500.csv             # Dataset utama
+├── train_model.py                   # Script untuk pelatihan model
+└── README.md                        # Dokumentasi proyek
 
 ````
 
